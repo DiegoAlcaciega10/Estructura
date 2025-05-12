@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1745969644 source:c:\users\paula\desktop\estructura\tareadll\main.cpp
+	"main.h"
+	<iostream>
+
+1584205420 c:\users\paula\desktop\estructura\tareadll\main.h
+	<windows.h>
+
